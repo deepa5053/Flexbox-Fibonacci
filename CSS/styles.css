@@ -11,7 +11,7 @@
     background-color: green;
     text-align: left;
     color: aliceblue;
-    background-image: linear-gradient(to right, green, red);
+    background-image: linear-gradient(to right, green, darkred);
     
 }
 .container2{
@@ -23,7 +23,7 @@
     background-color: green;
     text-align: center;
     color: aliceblue;
-    background-image: linear-gradient(to left, green, red);
+    background-image: linear-gradient(to left, green, darkred);
 }
 .flex-item1{
     flex-grow: 0;
@@ -33,11 +33,9 @@
 }
 .flex-item3{
     flex-grow: 2;
-   
 }
 .flex-item4{
     flex-grow: 3;
-    
 }
 .flex-item5{
     flex-grow: 4;
