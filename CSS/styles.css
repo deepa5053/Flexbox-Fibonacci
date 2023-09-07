@@ -1,0 +1,95 @@
+.main{
+    display: flex;
+    flex-direction: column;
+}
+.container1{
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+    width: 100%;
+    height: 100px;
+    background-color: green;
+    text-align: left;
+    color: aliceblue;
+    background-image: linear-gradient(to right, green, red);
+    
+}
+.container2{
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+    width: 100%;
+    height: 100px;
+    background-color: green;
+    text-align: center;
+    color: aliceblue;
+    background-image: linear-gradient(to left, green, red);
+}
+.flex-item1{
+    flex-grow: 0;
+}
+.flex-item2{
+    flex-grow: 1;
+}
+.flex-item3{
+    flex-grow: 2;
+   
+}
+.flex-item4{
+    flex-grow: 3;
+    
+}
+.flex-item5{
+    flex-grow: 4;
+}
+.flex-item6{
+    flex-grow: 5;  
+}
+.flex-item7{
+    flex-grow: 6;  
+}
+.flex-item8{
+    flex-grow: 7;  
+}
+.flex-item9{
+    flex-grow: 8; 
+}
+.flex-item10{
+    flex-grow: 9; 
+}
+
+.flex-itema{
+    flex-grow: 9;
+}
+.flex-itemb{
+    flex-grow: 8;
+}
+.flex-itemc{
+    flex-grow: 7;
+   
+}
+.flex-itemd{
+    flex-grow: 6;
+    
+}
+.flex-iteme{
+    flex-grow: 5;
+}
+.flex-itemf{
+    flex-grow: 4;  
+}
+.flex-itemg{
+    flex-grow: 3;  
+}
+.flex-itemh{
+    flex-grow: 2;  
+}
+.flex-itemi{
+    flex-grow: 1; 
+}
+.flex-itemj{
+    flex-grow: 0; 
+}
+
+  
+  
